@@ -1,0 +1,9 @@
+I used c language to programme because i am familiar with it since first semster and I learned data structures in c language so i fel comfortable and used c to code.
+
+prims algorithm assumes all vertices are connected but in the given graph all vertices are not so it wont work for given graph
+
+kruskals algorithm fails to detect cycles in the directed graph so it wont work for the given directed graph
+
+dijkstras algorithm expects all weights to be non negative where as in the given graph one of the weights is negative so it wont work for the given graph
+
+since all three are failed to solve this graph. bellman-ford is best algorithm to solve this problem but its a slower algorithm. 
